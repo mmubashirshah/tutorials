@@ -10,7 +10,7 @@
 
   /* The calculator card container */
   .calc-card {
-    @apply w-full max-w-sm bg-white rounded-[2rem] shadow-2xl shadow-slate-200 p-8 border border-white;
+    @apply w-full max-w-sm bg-white rounded-4xl shadow-2xl shadow-slate-200 p-8 border border-white;
   }
 
 
